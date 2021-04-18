@@ -1,7 +1,7 @@
 # Natural Language Processing Notebook
 Jupyter Notebook for Natural Language Processing with Python.
 
-### Topics covered in the Notebook:
+### Topics covered in this Notebook are:
 
   1. Natural Language Toolkit
   2. Word Cloud
